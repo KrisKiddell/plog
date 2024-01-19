@@ -5,4 +5,4 @@ import (
 	"os"
 )
 
-var Error = log.New(os.Stdout, "\uea87", log.LstdFlags|log.Lshortfile)
+var Error = log.New(os.Stdout, "\uea87 does this show", log.LstdFlags|log.Lshortfile)
